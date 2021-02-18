@@ -46,3 +46,16 @@ Configuration
 -------------
 The configuration of dwm is done by creating a custom config.h
 and (re)compiling the source code.
+
+
+patched patches:
+dwm-alpha-20201019-61bb8b2.diff
+dwm-awesomebar-20200829-6.2.diff
+dwm-fixborders-6.2.diff
+dwm-fullgaps-20200508-7b77734.diff
+dwm-hide_vacant_tags-6.2.diff
+dwm-moveresize-20201206-cce77d8.diff
+dwm-pertag-6.2.diff
+dwm-r1522-viewontag.diff
+dwm-rotatestack-20161021-ab9571b.diff
+dwm-scratchpad-6.2.diff
